@@ -1,3 +1,5 @@
+_docker-compose.yml
+__docker-compose.yml
 node_modules
 build
 npm-debug.log
